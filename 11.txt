@@ -1100,6 +1100,12 @@ NBTV-4,http://[2409:8087:2801:22:100::1b]/wh7f454c46tw1794365255_149904061/hwltc
 甘肃经济,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
 兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
 兰州文旅,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
+白银文化教育,http://play.kankanlive.com/live/1696834115672925.m3u8
+白银综合,http://play.kankanlive.com/live/1696824115516930.m3u8
+嘉峪关公共,rtmp://play.kankanlive.com/live/1690854414503922
+嘉峪关综合,rtmp://play.kankanlive.com/live/1690854462058921
+庆阳文体旅游,rtmp://play.kankanlive.com/live/1700643349159930
+庆阳综合频道,rtmp://play.kankanlive.com/live/1700643403411931
 
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
